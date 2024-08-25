@@ -1,4 +1,4 @@
-![playa](./assets/c:\Users\nairp\Pictures\Playa.jpg)
+![playa](./assets/Playa.jpg)
 
 Hola a todos!
 
